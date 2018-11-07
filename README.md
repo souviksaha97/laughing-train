@@ -2,9 +2,9 @@
 Digital Notice Board
 
 
-==========================================	
-	     DOCUMENTATION
-==========================================
+=========================================	
+	    DOCUMENTATION
+=========================================
 Raspberry Pi ISA Digital Smart Board
 Author : Souvik Saha 
 Date of Implementation : 20th March, 2018.

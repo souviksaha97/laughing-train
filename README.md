@@ -1,8 +1,11 @@
 # laughing-train
 
 Raspberry Pi ISA Digital Smart Board
+
 Author : Souvik Saha 
+
 Date of Implementation : 20th March, 2018.
+
 Version v1.0
 
 

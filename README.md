@@ -1,9 +1,4 @@
 # laughing-train
-Digital Notice Board
-
-
-	
-	    DOCUMENTATION
 
 Raspberry Pi ISA Digital Smart Board
 Author : Souvik Saha 
